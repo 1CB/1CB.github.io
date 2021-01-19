@@ -26,4 +26,4 @@ Vi phạm phạt giống điều 2.
 
 <hr>
 
-_Link group: **https://www.facebook.com/groups/chatbot.force/**_
+_Link group: <a href="https://www.facebook.com/groups/chatbot.force/"><b>https://www.facebook.com/groups/chatbot.force/</b></a>_
