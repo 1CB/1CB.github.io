@@ -11,7 +11,7 @@ Nó đi ngược với tiêu chuẩn cộng đồng của Facebook. Bạn sẽ b
 Bạn cần làm điều này để mọi người có thể dễ tìm bài của bạn và bài có cùng chủ đề hơn.
 
 ## 4. KHÔNG NÓI TỤC, CHỬI THỀ
-Bạn sẽ bị kick nếu làm điều này đấy. *(Mẹo: viết tắt từ chửi tục hoặc thay thế nó bằng dấu \* đi.)*
+Bạn sẽ bị mute nếu làm điều này đấy. *(Mẹo: viết tắt từ chửi tục hoặc thay thế nó bằng dấu \* đi.)*
 
 ## 5. ĐĂNG BÀI PHẢI MANG NÃO
 Bạn nên suy nghĩ kĩ trước khi đăng bài. Nếu như nhận thấy bài quá nhảm, bài đó sẽ bị xoá (để tránh loãng group).
