@@ -18,6 +18,7 @@ Updated: 21/01/2021
 - `<block 2 hashtag>_kb2a`: Use if the posts is related to KB2ABot / Sử dụng nếu bài viết liên quan đến KB2ABot
 
 **_Note_**: Your post should always include block 2 hashtags, even when your post already contains block 2.1 hashtags.
+Bài viết của bạn luôn luôn phải có hashtag block 2, kể cả khi bài viết đã có hashtag block 2.1.
 
 <hr>
 
