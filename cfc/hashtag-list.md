@@ -12,7 +12,7 @@ Updated: 21/01/2021
 - `#cfc_bugs`: Bug report / Báo lỗi
 - `#cfc_question`: Question / Câu hỏi, thắc mắc
 - `#cfc_polls`: Polls / Bình chọn
-- `#cfc_offtopic`: Offtopic / Chủ đề khác (không liên quan bot)
+- `#cfc_offtopic`: Off-topic / Chủ đề khác (không liên quan bot)
 
 ## Block 2.1: Type of posts (with bot type) (optional / không bắt buộc):
 - `<block 2 hashtag>_c3cbot`: Use if the posts is related to C3CBot / Sử dụng nếu bài viết liên quan đến C3CBot
