@@ -10,7 +10,7 @@ Nó đi ngược với tiêu chuẩn cộng đồng của Facebook. Bạn sẽ b
 ## 3. THÊM HASHTAG VÀO BÀI VIẾT ĐỂ MỌI NGƯỜI DỄ TÌM BÀI HƠN
 Bạn cần làm điều này để mọi người có thể dễ tìm bài của bạn và bài có cùng chủ đề hơn.
 
-Xem danh sách hashtags tại [đây](hashtag-list.md)
+Xem danh sách hashtags tại [đây](hashtag-list)
 
 ## 4. KHÔNG NÓI TỤC, CHỬI THỀ
 Bạn sẽ bị mute nếu làm điều này đấy. *(Mẹo: viết tắt từ chửi tục hoặc thay thế nó bằng dấu \* đi.)*
