@@ -1,3 +1,5 @@
-# Project Dec1mus
+# 1CB
 
-Coming soon.
+_Dedicated to only one thing: bot._
+
+Main page coming soon!
