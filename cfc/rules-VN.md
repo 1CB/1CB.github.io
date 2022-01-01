@@ -31,4 +31,5 @@ Vi phạm phạt giống điều 2.
 _Link group mới: <a href="https://www.facebook.com/groups/358467012691888/"><b>https://www.facebook.com/groups/358467012691888/</b></a>_
 
 Những ai đọc được dòng này thì có thể cho group Chatbot Force cũ 1 vé ra đảo được không? Thanks. -BAW
+
 (link gr cũ bị ăn cắp: <a href="https://www.facebook.com/groups/714387649273151/"><b>https://www.facebook.com/groups/714387649273151/</b></a>
