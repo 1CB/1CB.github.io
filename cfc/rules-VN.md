@@ -1,5 +1,5 @@
 # LUẬT NHÓM CHATBOT FORCE COMMUNITY
-Cập nhật: 21/01/2021
+Cập nhật: --/--/---- (không hiệu lực)
 
 ## 1. CHỈ ĐĂNG BÀI BẰNG TIẾNG VIỆT HOẶC TIẾNG ANH
 Tại sao lại cho phép đăng tiếng Anh? Chatbot VN mình bắt đầu được người nước ngoài để ý nên việc group cho phép đăng bằng tiếng Anh cũng là điều dễ hiểu.
@@ -28,4 +28,7 @@ Vi phạm phạt giống điều 2.
 
 <hr>
 
-_Link group: <a href="https://www.facebook.com/groups/chatbot.force/"><b>https://www.facebook.com/groups/chatbot.force/</b></a>_
+_Link group mới: <a href="https://www.facebook.com/groups/358467012691888/"><b>https://www.facebook.com/groups/358467012691888/</b></a>_
+
+Những ai đọc được dòng này thì có thể cho group Chatbot Force cũ 1 vé ra đảo được không? Thanks. -BAW
+(link gr cũ bị ăn cắp: <a href="https://www.facebook.com/groups/714387649273151/"><b>https://www.facebook.com/groups/714387649273151/</b></a>
